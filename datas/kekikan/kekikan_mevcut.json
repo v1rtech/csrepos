@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        {
+            "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
+            "apiVersion": 1,
+            "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+            "status": 1,
+            "language": "tr",
+            "authors": [
+                "kraptor"
+            ],
+            "tvTypes": [
+                "Movie"
+            ],
+            "version": 1,
+            "internalName": "kısakod:kraptorcs",
+            "description": "Yeni repomuzun kısa kodları: kraptorcs, kraptorcs3, kraptor bu üç kısa koddan tercih ettiğinizi kullanıp yeni repomuzu ekleyebilirsiniz!",
+            "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/kraptorcs.cs3",
+            "name": "kısakod:kraptorcs",
+            "repoCodes": [
+                "kekikan"
+            ],
+            "repoTimestamps": {
+                "kekikan": "2025-11-20T14:56:45.270136Z"
+            },
+            "addedAt": "2025-09-02T13:31:42.467349Z"
+        }
+    ]
+}
