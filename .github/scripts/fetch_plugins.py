@@ -60,6 +60,7 @@ def get_last_updated_by_api(api_commit_url_base, file_path, headers):
      return None
 
 repos = {
+    "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/builds/plugins.json": "Kraptor",
     "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json": "Latte",
     "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json": "nikstream",
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json": "feroxxcs3",
