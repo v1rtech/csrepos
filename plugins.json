@@ -1,5 +1,2881 @@
 [
     {
+        "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 45777,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 34,
+        "internalName": "4KFilmIzleme",
+        "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/4KFilmIzleme.cs3",
+        "name": "4KFilmIzleme",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456829Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.4kfilmizlesene.org&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 11573,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "4KFilmIzlesene",
+        "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene'nin Tadını Çıkart.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/4KFilmIzlesene.cs3",
+        "name": "4KFilmIzlesene",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456852Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 36814,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "inatchii",
+            "JustRelaxable",
+            "kraptor123"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 28,
+        "internalName": "AnimeciX",
+        "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
+        "name": "AnimeciX",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456859Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 23347,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 19,
+        "internalName": "AnimeIzlesene",
+        "description": "Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeIzlesene.cs3",
+        "name": "AnimeIzlesene",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456865Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22653,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 22,
+        "internalName": "Animeler",
+        "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animeler.cs3",
+        "name": "Animeler",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456871Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://anizium.co/assets/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 32990,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 6,
+        "internalName": "Anizium",
+        "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizium.cs3",
+        "name": "Anizium",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456876Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 30790,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 35,
+        "internalName": "Anizm",
+        "description": "Türkçe Altyazılı Anime İzle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizm.cs3",
+        "name": "Anizm",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456883Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14741,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "AsyaAnimeleri",
+        "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
+        "name": "AsyaAnimeleri",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456889Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14662,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 11,
+        "internalName": "AsyaFanatiklerim",
+        "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaFanatiklerim.cs3",
+        "name": "AsyaFanatiklerim",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456896Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyafilmizlesene.org&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 12456,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "AsyaFilmIzlesene",
+        "description": "Hint filmleri, Hint filmleri izle, Asya filmleri izle, Kore filmleri izle, HD izle, Full izle, 1080p izle, online izle, Tek parça izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaFilmIzlesene.cs3",
+        "name": "AsyaFilmIzlesene",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456903Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 15081,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 6,
+        "internalName": "AsyaKing",
+        "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
+        "name": "AsyaKing",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456908Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14692,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "AsyaMinik",
+        "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
+        "name": "AsyaMinik",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456913Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 54293,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "AsyaWatch",
+        "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
+        "name": "AsyaWatch",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:10.492734Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456919Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.atv.com.tr&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20528,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Atv",
+        "description": "Atv",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Atv.cs3",
+        "name": "Atv",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:10.887568Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456926Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 21941,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Kraptor"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 16,
+        "internalName": "BelgeselX",
+        "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
+        "name": "BelgeselX",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456931Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 13426,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "BirAsyaDizi",
+        "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
+        "name": "BirAsyaDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456936Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 24668,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "CizgiMax",
+        "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
+        "name": "CizgiMax",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456941Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://cizgivedizi.com/Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 26489,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 17,
+        "internalName": "CizgiveDizi",
+        "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
+        "name": "CizgiveDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456947Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.ddizi.im/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16434,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "Ddizi",
+        "description": "Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Ddizi.cs3",
+        "name": "Ddizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456953Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16138,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 6,
+        "internalName": "DiziAsia",
+        "description": "DiziAsia - Asya Dizileri İzle",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
+        "name": "DiziAsia",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456958Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 40581,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "DiziAsya",
+        "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
+        "name": "DiziAsya",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456964Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 23546,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 20,
+        "internalName": "DiziBox",
+        "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
+        "name": "DiziBox",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456969Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizican.tv&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 15676,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama"
+        ],
+        "version": 10,
+        "internalName": "Dizican",
+        "description": "DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizican.cs3",
+        "name": "Dizican",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456977Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 23496,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 22,
+        "internalName": "DiziGom",
+        "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
+        "name": "DiziGom",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456982Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 27694,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 19,
+        "internalName": "DiziKorea",
+        "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
+        "name": "DiziKorea",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456988Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizikral.nl/mofy/img/192x192_.png&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20170,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "DiziKral",
+        "description": "DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKral.cs3",
+        "name": "DiziKral",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456993Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19178,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 9,
+        "internalName": "DiziLife",
+        "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
+        "name": "DiziLife",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:19.533101Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.456999Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 57018,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 60,
+        "internalName": "Dizilla",
+        "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
+        "name": "Dizilla",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457004Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://dizimag.mom/uploads/logo/original/logo-5063.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 31200,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 36,
+        "internalName": "DiziMag",
+        "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
+        "name": "DiziMag",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457009Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 31640,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 43,
+        "internalName": "DiziMom",
+        "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
+        "name": "DiziMom",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457015Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19748,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 61,
+        "internalName": "DiziPal",
+        "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
+        "name": "DiziPal",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457020Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 52780,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 72,
+        "internalName": "DiziPalOrijinal",
+        "description": "DiziPal Orijinal.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
+        "name": "DiziPalOrijinal",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457026Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16938,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 11,
+        "internalName": "Dizist",
+        "description": "Yabancı Dizi izle - Dizist",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizist.cs3",
+        "name": "Dizist",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457031Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 23255,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "DiziWatch",
+        "description": "Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziWatch.cs3",
+        "name": "DiziWatch",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457038Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 51796,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 44,
+        "internalName": "DiziYo",
+        "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
+        "name": "DiziYo",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457043Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14610,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 31,
+        "internalName": "DiziYou",
+        "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYou.cs3",
+        "name": "DiziYou",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457047Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14224,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Dmax",
+        "description": "Dmax dizi ve programlarını takip etmek için ziyaret edin. Dmax dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dmax.cs3",
+        "name": "Dmax",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:24.862903Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457052Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20729,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 25,
+        "internalName": "FilmEkseni",
+        "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
+        "name": "FilmEkseni",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457056Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 17859,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 20,
+        "internalName": "FilmHane",
+        "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
+        "name": "FilmHane",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457062Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://filmizle.cx/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22146,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 15,
+        "internalName": "FilmIzle",
+        "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmIzle.cs3",
+        "name": "FilmIzle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457067Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22412,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun",
+            "usdogu",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 44,
+        "internalName": "FilmMakinesi",
+        "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457073Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16743,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 24,
+        "internalName": "FilmModu",
+        "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
+        "name": "FilmModu",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457078Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 26443,
+        "status": 1,
+        "language": "az",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Filmzal",
+        "description": "Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
+        "name": "Filmzal",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:27.583450Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457084Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://img.flixhq.to/xxrz/400x400/100/ab/5f/ab5f0e1996cc5b71919e10e910ad593e/ab5f0e1996cc5b71919e10e910ad593e.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 43372,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "FlixHQ",
+        "description": "Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FlixHQ.cs3",
+        "name": "FlixHQ",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:27.989044Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457091Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 21323,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 23,
+        "internalName": "FullHDFilm",
+        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilm.cs3",
+        "name": "FullHDFilm",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457096Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 18351,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "FullHDFilmizlesene",
+        "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457101Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 11584,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "FullHDIzle",
+        "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDIzle.cs3",
+        "name": "FullHDIzle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457107Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.giniko.com/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 11157,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 7,
+        "internalName": "GinikoCanli",
+        "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
+        "name": "GinikoCanli",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457111Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hdfilmcehennemi.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 32217,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 57,
+        "internalName": "HDFilmCehennemi",
+        "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457117Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16720,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "HintDizi",
+        "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
+        "name": "HintDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457121Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 31289,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "Eagle",
+            "kraptor",
+            "kerimmkirac",
+            "JustRelaxable",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "version": 34,
+        "internalName": "InatBox",
+        "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
+        "name": "InatBox",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457126Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 21617,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 35,
+        "internalName": "JetFilmizle",
+        "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
+        "name": "JetFilmizle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457130Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.kanald.com.tr/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22105,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "KanalD",
+        "description": "KanalD.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KanalD.cs3",
+        "name": "KanalD",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:32.052250Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457136Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 15442,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 11,
+        "internalName": "KoreanTurk",
+        "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KoreanTurk.cs3",
+        "name": "KoreanTurk",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457141Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 175403,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "AsianDrama",
+            "AnimeMovie"
+        ],
+        "version": 11,
+        "internalName": "KraptorPlus",
+        "description": "Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
+        "name": "KraptorPlus",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:33.005889Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457145Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22509,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 21,
+        "internalName": "KultFilmler",
+        "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
+        "name": "KultFilmler",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-08-14T21:01:40Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457151Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 78419,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 9,
+        "internalName": "MirrorVerse",
+        "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
+        "name": "MirrorVerse",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:34.082265Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457155Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "http://www.google.com/s2/favicons?domain=www.nowtv.com.tr",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 12915,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "NowTv",
+        "description": "Now Tv",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/NowTv.cs3",
+        "name": "NowTv",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:34.487952Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457160Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 18554,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "OnePaceTr",
+        "description": "One Pace türkçe altyazılı izleme platformu.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OnePaceTr.cs3",
+        "name": "OnePaceTr",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:34.885812Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457166Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 35734,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 4,
+        "internalName": "OpenAnime",
+        "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
+        "name": "OpenAnime",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:35.312659Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457171Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14877,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "RareFilmm",
+        "description": "The Cave of Forgotten Films",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
+        "name": "RareFilmm",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:35.575220Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457177Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 27499,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Eagle",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "version": 11,
+        "internalName": "RecTV",
+        "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
+        "name": "RecTV",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:35.828166Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457183Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 48470,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 35,
+        "internalName": "RoketDizi",
+        "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
+        "name": "RoketDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:36.098322Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457190Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seicode.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 25792,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "SeiCode",
+        "description": "Seicode ile en yeni animeler keşfedin!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SeiCode.cs3",
+        "name": "SeiCode",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:36.376954Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457194Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 56318,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "SelcukFlix",
+        "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
+        "name": "SelcukFlix",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:36.629418Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457200Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.my/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 26865,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 24,
+        "internalName": "SetFilmIzle",
+        "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
+        "name": "SetFilmIzle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:36.906428Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457206Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 30237,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 18,
+        "internalName": "SezonlukDizi",
+        "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
+        "name": "SezonlukDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:37.169713Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457211Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showtv.com.tr&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19066,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "ShowTv",
+        "description": "Show Tv.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/ShowTv.cs3",
+        "name": "ShowTv",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:37.420947Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457217Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 21579,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 18,
+        "internalName": "Sinefy",
+        "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinefy.cs3",
+        "name": "Sinefy",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:37.675591Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457222Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 16312,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 23,
+        "internalName": "SinemaCX",
+        "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
+        "name": "SinemaCX",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:37.962216Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457227Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 37262,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Cartoon"
+        ],
+        "version": 7,
+        "internalName": "SineWix",
+        "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
+        "name": "SineWix",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:38.244094Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457232Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 15675,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 27,
+        "internalName": "Sinezy",
+        "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
+        "name": "Sinezy",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:38.506838Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457237Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.startv.com.tr&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 24169,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "StarTv",
+        "description": "StarTv.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/StarTv.cs3",
+        "name": "StarTv",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:38.757591Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457242Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20191,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 29,
+        "internalName": "SuperFilmGeldi",
+        "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SuperFilmGeldi.cs3",
+        "name": "SuperFilmGeldi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:39.028847Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457246Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 14082,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Tlc",
+        "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Tlc.cs3",
+        "name": "Tlc",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:39.301426Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457252Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.trdiziizle.vip/fawn.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19875,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "TrDiziIzle",
+        "description": "Full hd ve tek parça hemde reklamsız yerli dizi izlemek mi istiyorsunuz? O halde bu site sorunsuz dizi izlemeniz için tam size göre",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrDiziIzle.cs3",
+        "name": "TrDiziIzle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:39.578642Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457257Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.trt1.com.tr&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 12019,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Trt1",
+        "description": "Trt1 tüm içerikleri youtube üzerinden verdiği için video kalitesi düşük.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Trt1.cs3",
+        "name": "Trt1",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:39.833561Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457261Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.trtcocuk.net.tr&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20182,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 5,
+        "internalName": "TrtCocuk",
+        "description": "TRT Çocuk resmi web sitesinde, canlı tv izle, oyun oyna, çizgi film izle, yarışmalara başvur ve eğlenceyi yakala! Rafadan Tayfa, Akıllı Tavşan Momo, İbi, Kare, Aslan, Hapşuu, Niloya, Rüzgar Gülü, Kardeşim Ozi, Emiray ve dahası burada. TRT Çocuk üzerinden günlük yayın akışını takip edebilir ve ebeveyn blogu yazılarını da okuyabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrtCocuk.cs3",
+        "name": "TrtCocuk",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:40.083215Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457266Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19913,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 18,
+        "internalName": "TurkAnime",
+        "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
+        "name": "TurkAnime",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:40.326929Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457271Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 18540,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Tv8",
+        "description": "TV8'in eğlenceli programları, yarışmaları ve dizileri ile keyifle TV izle. Survivor, O Ses Türkiye, Jet Sosyete, Kızım, Yemekteyiz ve Masterchef için TV8 izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Tv8.cs3",
+        "name": "Tv8",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:40.596027Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457275Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 19234,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "TvDiziler",
+        "description": "Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TvDiziler.cs3",
+        "name": "TvDiziler",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:40.846169Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457280Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 22709,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 22,
+        "internalName": "UgurFilm",
+        "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/UgurFilm.cs3",
+        "name": "UgurFilm",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:41.119793Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457285Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watch2movies.net/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 34781,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Watch2Movies",
+        "description": "Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Watch2Movies.cs3",
+        "name": "Watch2Movies",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:41.372530Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457290Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 33461,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "Anime"
+        ],
+        "version": 15,
+        "internalName": "WebDramaTurkey",
+        "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
+        "name": "WebDramaTurkey",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:41.620580Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457297Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 27324,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 34,
+        "internalName": "WebteIzle",
+        "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
+        "name": "WebteIzle",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:41.873761Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457301Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 27411,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "YabanciDizi",
+        "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
+        "name": "YabanciDizi",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:42.143704Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457306Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 13226,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "YeniKaynak",
+        "description": "İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniKaynak.cs3",
+        "name": "YeniKaynak",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:42.393704Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457316Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 15285,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 7,
+        "internalName": "YeniWatch",
+        "description": "Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniWatch.cs3",
+        "name": "YeniWatch",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:42.642921Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457321Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 10971,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "Music",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "Youtube",
+        "description": "Youtube - sadece düşük kalite videolar desteklenir.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
+        "name": "Youtube",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:42.921421Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457325Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+        "jarFileSize": 199063,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 36430,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor",
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Torrent"
+        ],
+        "version": 17,
+        "internalName": "YTS",
+        "jarUrl": "https://raw.githubusercontent.com/Kraptor123/kraptoranime/builds/YTS.jar",
+        "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
+        "name": "YTS",
+        "repoCodes": [
+            "Kraptor"
+        ],
+        "repoTimestamps": {
+            "Kraptor": "2025-11-22T08:38:43.172439Z"
+        },
+        "addedAt": "2025-11-22T08:31:05.457330Z",
+        "isNew": true,
+        "isUpdated": false,
+        "repoUpdated": {
+            "Kraptor": false
+        }
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GitLatte/Sinetech",
@@ -17,14 +2893,14 @@
         ],
         "version": 4,
         "internalName": "Aniworld MC - Latte",
-        "description": "Sinetech.tr Forum @Memetcandal`ın isteği üzerinee Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
+        "description": "Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Aniworld MC - Latte.cs3",
         "name": "Aniworld MC - Latte",
         "repoCodes": [
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:38.890941Z"
+            "Latte": "2025-11-22T08:38:43.649362Z"
         },
         "addedAt": "2025-06-18T01:50:32.272534Z",
         "isNew": false,
@@ -56,7 +2932,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:39.565998Z"
+            "Latte": "2025-11-22T08:38:43.927191Z"
         },
         "addedAt": "2025-06-18T01:50:32.272610Z",
         "isNew": false,
@@ -89,7 +2965,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:40.310038Z"
+            "Latte": "2025-11-22T08:38:44.192734Z"
         },
         "addedAt": "2025-06-18T01:50:32.272619Z",
         "isNew": false,
@@ -120,7 +2996,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:40.991466Z"
+            "Latte": "2025-11-22T08:38:44.436652Z"
         },
         "addedAt": "2025-06-18T01:50:32.272628Z",
         "isNew": false,
@@ -153,7 +3029,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:41.932317Z"
+            "Latte": "2025-11-22T08:38:44.696524Z"
         },
         "addedAt": "2025-06-18T01:50:32.272637Z",
         "isNew": false,
@@ -187,7 +3063,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:43.325257Z"
+            "Latte": "2025-11-22T08:38:44.953973Z"
         },
         "addedAt": "2025-06-18T01:50:32.272646Z",
         "isNew": false,
@@ -219,7 +3095,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:43.869931Z"
+            "Latte": "2025-11-22T08:38:45.206106Z"
         },
         "addedAt": "2025-06-18T01:50:32.272655Z",
         "isNew": false,
@@ -252,7 +3128,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:44.364999Z"
+            "Latte": "2025-11-22T08:38:45.447773Z"
         },
         "addedAt": "2025-06-18T01:50:32.272663Z",
         "isNew": false,
@@ -285,7 +3161,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:44.870024Z"
+            "Latte": "2025-11-22T08:38:45.702217Z"
         },
         "addedAt": "2025-06-18T01:50:32.272673Z",
         "isNew": false,
@@ -318,7 +3194,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:46.212166Z"
+            "Latte": "2025-11-22T08:38:45.991885Z"
         },
         "addedAt": "2025-06-18T01:50:32.272690Z",
         "isNew": false,
@@ -353,7 +3229,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:46.731944Z"
+            "Latte": "2025-11-22T08:38:46.258176Z"
         },
         "addedAt": "2025-06-18T01:50:32.272707Z",
         "isNew": false,
@@ -384,7 +3260,7 @@
             "Latte"
         ],
         "repoTimestamps": {
-            "Latte": "2025-11-22T07:35:47.412055Z"
+            "Latte": "2025-11-22T08:38:46.531139Z"
         },
         "addedAt": "2025-06-19T22:21:24.094583Z",
         "isNew": false,
@@ -415,7 +3291,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:50.293545Z"
+            "nikstream": "2025-11-22T08:38:47.139871Z"
         },
         "addedAt": "2025-05-23T11:21:55.483495Z",
         "isNew": false,
@@ -449,7 +3325,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-04-18T05:28:36Z"
+            "nikstream": "2025-11-22T08:38:47.410977Z"
         },
         "addedAt": "2025-05-23T11:21:55.483515Z",
         "isNew": false,
@@ -481,7 +3357,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:51.792250Z"
+            "nikstream": "2025-11-22T08:38:47.684845Z"
         },
         "addedAt": "2025-05-23T11:21:55.483526Z",
         "isNew": false,
@@ -514,7 +3390,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:52.772424Z"
+            "nikstream": "2025-11-22T08:38:47.972706Z"
         },
         "addedAt": "2025-05-23T11:21:55.483535Z",
         "isNew": false,
@@ -547,7 +3423,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:54.126075Z"
+            "nikstream": "2025-11-22T08:38:48.247044Z"
         },
         "addedAt": "2025-05-23T11:21:55.483546Z",
         "isNew": false,
@@ -579,7 +3455,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:54.670850Z"
+            "nikstream": "2025-11-22T08:38:48.688507Z"
         },
         "addedAt": "2025-05-23T11:21:55.483555Z",
         "isNew": false,
@@ -612,7 +3488,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:55.145886Z"
+            "nikstream": "2025-11-22T08:38:48.964687Z"
         },
         "addedAt": "2025-05-23T11:21:55.483565Z",
         "isNew": false,
@@ -644,7 +3520,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:55.614553Z"
+            "nikstream": "2025-11-22T08:38:49.218378Z"
         },
         "addedAt": "2025-05-23T11:21:55.483573Z",
         "isNew": false,
@@ -675,7 +3551,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:56.159854Z"
+            "nikstream": "2025-11-22T08:38:49.469889Z"
         },
         "addedAt": "2025-05-23T11:21:55.483582Z",
         "isNew": false,
@@ -707,7 +3583,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:35:57.147567Z"
+            "nikstream": "2025-11-22T08:38:49.733412Z"
         },
         "addedAt": "2025-05-23T11:21:55.483590Z",
         "isNew": false,
@@ -739,7 +3615,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-04-07T12:17:26Z"
+            "nikstream": "2025-11-22T08:38:49.994353Z"
         },
         "addedAt": "2025-05-23T11:21:55.483598Z",
         "isNew": false,
@@ -770,7 +3646,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:00.966845Z"
+            "nikstream": "2025-11-22T08:38:50.256914Z"
         },
         "addedAt": "2025-05-23T11:21:55.483607Z",
         "isNew": false,
@@ -802,7 +3678,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:01.618016Z"
+            "nikstream": "2025-11-22T08:38:50.571907Z"
         },
         "addedAt": "2025-05-23T11:21:55.483616Z",
         "isNew": false,
@@ -835,7 +3711,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-04-18T05:28:44Z"
+            "nikstream": "2025-11-22T08:38:50.839866Z"
         },
         "addedAt": "2025-05-23T11:21:55.483624Z",
         "isNew": false,
@@ -867,7 +3743,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:05.187888Z"
+            "nikstream": "2025-11-22T08:38:51.129876Z"
         },
         "addedAt": "2025-05-23T11:21:55.483633Z",
         "isNew": false,
@@ -898,7 +3774,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:05.770655Z"
+            "nikstream": "2025-11-22T08:38:51.424204Z"
         },
         "addedAt": "2025-05-23T11:21:55.483641Z",
         "isNew": false,
@@ -930,7 +3806,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:06.453215Z"
+            "nikstream": "2025-11-22T08:38:51.695670Z"
         },
         "addedAt": "2025-07-31T13:40:37.658825Z",
         "isNew": false,
@@ -961,7 +3837,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:07.396591Z"
+            "nikstream": "2025-11-22T08:38:51.957351Z"
         },
         "addedAt": "2025-05-23T11:21:55.483658Z",
         "isNew": false,
@@ -994,7 +3870,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:08.003825Z"
+            "nikstream": "2025-11-22T08:38:52.237790Z"
         },
         "addedAt": "2025-05-23T11:21:55.483667Z",
         "isNew": false,
@@ -1026,7 +3902,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:09.633736Z"
+            "nikstream": "2025-11-22T08:38:52.501965Z"
         },
         "addedAt": "2025-05-23T11:21:55.483676Z",
         "isNew": false,
@@ -1058,7 +3934,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:10.565302Z"
+            "nikstream": "2025-11-22T08:38:52.772452Z"
         },
         "addedAt": "2025-05-23T11:21:55.483684Z",
         "isNew": false,
@@ -1089,7 +3965,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:10.992902Z"
+            "nikstream": "2025-11-22T08:38:53.049789Z"
         },
         "addedAt": "2025-05-23T11:21:55.483693Z",
         "isNew": false,
@@ -1121,7 +3997,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:12.475731Z"
+            "nikstream": "2025-11-22T08:38:53.321508Z"
         },
         "addedAt": "2025-05-23T11:21:55.483701Z",
         "isNew": false,
@@ -1155,7 +4031,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:12.889771Z"
+            "nikstream": "2025-11-22T08:38:53.594011Z"
         },
         "addedAt": "2025-05-23T11:21:55.483718Z",
         "isNew": false,
@@ -1186,7 +4062,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:13.334151Z"
+            "nikstream": "2025-11-22T08:38:53.860648Z"
         },
         "addedAt": "2025-05-23T11:21:55.483727Z",
         "isNew": false,
@@ -1218,7 +4094,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:13.738605Z"
+            "nikstream": "2025-11-22T08:38:54.142172Z"
         },
         "addedAt": "2025-05-23T11:21:55.483735Z",
         "isNew": false,
@@ -1249,7 +4125,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-03-18T11:17:18Z"
+            "nikstream": "2025-11-22T08:38:54.393908Z"
         },
         "addedAt": "2025-05-23T11:21:55.483744Z",
         "isNew": false,
@@ -1283,7 +4159,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:15.127518Z"
+            "nikstream": "2025-11-22T08:38:54.659897Z"
         },
         "addedAt": "2025-05-23T11:21:55.483761Z",
         "isNew": false,
@@ -1315,7 +4191,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:15.560552Z"
+            "nikstream": "2025-11-22T08:38:54.918698Z"
         },
         "addedAt": "2025-05-23T11:21:55.483770Z",
         "isNew": false,
@@ -1346,7 +4222,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:16.060402Z"
+            "nikstream": "2025-11-22T08:38:55.190258Z"
         },
         "addedAt": "2025-05-23T11:21:55.483778Z",
         "isNew": false,
@@ -1379,7 +4255,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:16.531932Z"
+            "nikstream": "2025-11-22T08:38:55.442299Z"
         },
         "addedAt": "2025-05-23T11:21:55.483786Z",
         "isNew": false,
@@ -1410,7 +4286,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:17.143027Z"
+            "nikstream": "2025-11-22T08:38:55.704996Z"
         },
         "addedAt": "2025-05-23T11:21:55.483821Z",
         "isNew": false,
@@ -1441,7 +4317,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:17.638919Z"
+            "nikstream": "2025-11-22T08:38:55.988679Z"
         },
         "addedAt": "2025-05-23T11:21:55.483829Z",
         "isNew": false,
@@ -1478,7 +4354,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:18.164242Z"
+            "nikstream": "2025-11-22T08:38:56.267189Z"
         },
         "addedAt": "2025-05-23T11:21:55.483846Z",
         "isNew": false,
@@ -1509,7 +4385,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:18.670637Z"
+            "nikstream": "2025-11-22T08:38:56.523253Z"
         },
         "addedAt": "2025-05-23T11:21:55.483855Z",
         "isNew": false,
@@ -1541,7 +4417,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:19.360610Z"
+            "nikstream": "2025-11-22T08:38:56.777327Z"
         },
         "addedAt": "2025-05-23T11:21:55.483864Z",
         "isNew": false,
@@ -1573,7 +4449,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:20.005646Z"
+            "nikstream": "2025-11-22T08:38:57.026480Z"
         },
         "addedAt": "2025-05-23T11:21:55.484051Z",
         "isNew": false,
@@ -1606,7 +4482,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:20.523280Z"
+            "nikstream": "2025-11-22T08:38:57.277469Z"
         },
         "addedAt": "2025-05-23T11:21:55.484061Z",
         "isNew": false,
@@ -1638,7 +4514,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:21.090930Z"
+            "nikstream": "2025-11-22T08:38:57.525085Z"
         },
         "addedAt": "2025-05-23T11:21:55.484069Z",
         "isNew": false,
@@ -1671,7 +4547,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:21.624844Z"
+            "nikstream": "2025-11-22T08:38:57.787408Z"
         },
         "addedAt": "2025-06-02T11:19:39.555379Z",
         "isNew": false,
@@ -1703,7 +4579,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:22.302409Z"
+            "nikstream": "2025-11-22T08:38:58.033559Z"
         },
         "addedAt": "2025-05-23T11:21:55.484086Z",
         "isNew": false,
@@ -1734,7 +4610,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:22.773719Z"
+            "nikstream": "2025-11-22T08:38:58.325781Z"
         },
         "addedAt": "2025-05-23T11:21:55.484103Z",
         "isNew": false,
@@ -1765,7 +4641,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:23.033282Z"
+            "nikstream": "2025-11-22T08:38:58.573949Z"
         },
         "addedAt": "2025-05-23T11:21:55.484120Z",
         "isNew": false,
@@ -1796,7 +4672,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:23.314690Z"
+            "nikstream": "2025-11-22T08:38:58.826447Z"
         },
         "addedAt": "2025-05-23T11:21:55.484128Z",
         "isNew": false,
@@ -1828,7 +4704,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:23.622557Z"
+            "nikstream": "2025-11-22T08:38:59.075310Z"
         },
         "addedAt": "2025-05-23T11:21:55.484136Z",
         "isNew": false,
@@ -1859,7 +4735,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:23.892321Z"
+            "nikstream": "2025-11-22T08:38:59.355604Z"
         },
         "addedAt": "2025-05-23T11:21:55.484161Z",
         "isNew": false,
@@ -1891,7 +4767,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:24.159209Z"
+            "nikstream": "2025-11-22T08:38:59.618643Z"
         },
         "addedAt": "2025-05-23T11:21:55.484178Z",
         "isNew": false,
@@ -1922,7 +4798,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:24.422861Z"
+            "nikstream": "2025-11-22T08:38:59.874004Z"
         },
         "addedAt": "2025-05-23T11:21:55.484187Z",
         "isNew": false,
@@ -1953,7 +4829,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:25.105881Z"
+            "nikstream": "2025-11-22T08:39:00.119563Z"
         },
         "addedAt": "2025-05-23T11:21:55.484204Z",
         "isNew": false,
@@ -1984,7 +4860,7 @@
             "nikstream"
         ],
         "repoTimestamps": {
-            "nikstream": "2025-11-22T07:36:25.760138Z"
+            "nikstream": "2025-11-22T08:39:00.368544Z"
         },
         "addedAt": "2025-05-23T11:21:55.484217Z",
         "isNew": false,
@@ -2017,7 +4893,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:26.427308Z"
+            "feroxxcs3": "2025-11-22T08:39:00.935771Z"
         },
         "addedAt": "2025-05-23T11:21:55.487685Z",
         "isNew": false,
@@ -2049,7 +4925,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:26.766890Z"
+            "feroxxcs3": "2025-11-22T08:39:01.204354Z"
         },
         "addedAt": "2025-05-23T11:21:55.487706Z",
         "isNew": false,
@@ -2081,7 +4957,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:27.687486Z"
+            "feroxxcs3": "2025-11-22T08:39:01.481204Z"
         },
         "addedAt": "2025-08-05T18:37:57.162326Z",
         "isNew": false,
@@ -2112,7 +4988,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:29.716984Z"
+            "feroxxcs3": "2025-11-22T08:39:01.746359Z"
         },
         "addedAt": "2025-05-23T11:21:55.487725Z",
         "isNew": false,
@@ -2143,7 +5019,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:30.540177Z"
+            "feroxxcs3": "2025-11-22T08:39:02.028780Z"
         },
         "addedAt": "2025-05-23T11:21:55.487734Z",
         "isNew": false,
@@ -2174,7 +5050,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:31.164264Z"
+            "feroxxcs3": "2025-11-22T08:39:02.313016Z"
         },
         "addedAt": "2025-05-23T11:21:55.487742Z",
         "isNew": false,
@@ -2205,7 +5081,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:32.428134Z"
+            "feroxxcs3": "2025-11-22T08:39:02.569852Z"
         },
         "addedAt": "2025-05-23T11:21:55.487751Z",
         "isNew": false,
@@ -2236,7 +5112,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:32.701663Z"
+            "feroxxcs3": "2025-11-22T08:39:02.852170Z"
         },
         "addedAt": "2025-05-23T11:21:55.487759Z",
         "isNew": false,
@@ -2267,7 +5143,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:32.968915Z"
+            "feroxxcs3": "2025-11-22T08:39:03.122921Z"
         },
         "addedAt": "2025-05-23T11:21:55.487769Z",
         "isNew": false,
@@ -2300,7 +5176,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:33.478207Z"
+            "feroxxcs3": "2025-11-22T08:39:03.374545Z"
         },
         "addedAt": "2025-05-23T11:21:55.487778Z",
         "isNew": false,
@@ -2331,7 +5207,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:37.203877Z"
+            "feroxxcs3": "2025-11-22T08:39:03.635809Z"
         },
         "addedAt": "2025-05-23T11:21:55.487786Z",
         "isNew": false,
@@ -2362,7 +5238,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:37.490672Z"
+            "feroxxcs3": "2025-11-22T08:39:03.903129Z"
         },
         "addedAt": "2025-05-23T11:21:55.487803Z",
         "isNew": false,
@@ -2394,7 +5270,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:37.755364Z"
+            "feroxxcs3": "2025-11-22T08:39:04.152705Z"
         },
         "addedAt": "2025-05-23T11:21:55.487812Z",
         "isNew": false,
@@ -2425,7 +5301,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:38.024218Z"
+            "feroxxcs3": "2025-11-22T08:39:04.402130Z"
         },
         "addedAt": "2025-05-23T11:21:55.487820Z",
         "isNew": false,
@@ -2457,7 +5333,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:38.289457Z"
+            "feroxxcs3": "2025-11-22T08:39:04.662647Z"
         },
         "addedAt": "2025-05-23T11:21:55.487829Z",
         "isNew": false,
@@ -2488,7 +5364,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:38.551009Z"
+            "feroxxcs3": "2025-11-22T08:39:04.924635Z"
         },
         "addedAt": "2025-05-23T11:21:55.487837Z",
         "isNew": false,
@@ -2521,7 +5397,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:38.846924Z"
+            "feroxxcs3": "2025-11-22T08:39:05.178875Z"
         },
         "addedAt": "2025-05-23T11:21:55.487845Z",
         "isNew": false,
@@ -2555,7 +5431,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:39.108954Z"
+            "feroxxcs3": "2025-11-22T08:39:05.446764Z"
         },
         "addedAt": "2025-05-23T11:21:55.487854Z",
         "isNew": false,
@@ -2586,7 +5462,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:39.378171Z"
+            "feroxxcs3": "2025-11-22T08:39:05.705583Z"
         },
         "addedAt": "2025-05-23T11:21:55.487862Z",
         "isNew": false,
@@ -2617,7 +5493,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:39.679525Z"
+            "feroxxcs3": "2025-11-22T08:39:05.958378Z"
         },
         "addedAt": "2025-05-23T11:21:55.487870Z",
         "isNew": false,
@@ -2649,7 +5525,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:40.036012Z"
+            "feroxxcs3": "2025-11-22T08:39:06.218342Z"
         },
         "addedAt": "2025-05-23T11:21:55.487879Z",
         "isNew": false,
@@ -2682,7 +5558,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:41.304532Z"
+            "feroxxcs3": "2025-11-22T08:39:06.473631Z"
         },
         "addedAt": "2025-05-23T11:21:55.487887Z",
         "isNew": false,
@@ -2713,7 +5589,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:41.568435Z"
+            "feroxxcs3": "2025-11-22T08:39:06.726132Z"
         },
         "addedAt": "2025-05-23T11:21:55.487896Z",
         "isNew": false,
@@ -2749,7 +5625,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:41.829199Z"
+            "feroxxcs3": "2025-11-22T08:39:06.996592Z"
         },
         "addedAt": "2025-05-23T11:21:55.487904Z",
         "isNew": false,
@@ -2781,7 +5657,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:42.104733Z"
+            "feroxxcs3": "2025-11-22T08:39:07.246293Z"
         },
         "addedAt": "2025-05-23T11:21:55.487912Z",
         "isNew": false,
@@ -2813,7 +5689,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:42.366549Z"
+            "feroxxcs3": "2025-11-22T08:39:07.537555Z"
         },
         "addedAt": "2025-05-23T11:21:55.487921Z",
         "isNew": false,
@@ -2844,7 +5720,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:42.635395Z"
+            "feroxxcs3": "2025-11-22T08:39:07.811635Z"
         },
         "addedAt": "2025-05-23T11:21:55.487929Z",
         "isNew": false,
@@ -2875,7 +5751,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:42.899022Z"
+            "feroxxcs3": "2025-11-22T08:39:08.065701Z"
         },
         "addedAt": "2025-05-23T11:21:55.487938Z",
         "isNew": false,
@@ -2906,7 +5782,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:43.159550Z"
+            "feroxxcs3": "2025-11-22T08:39:08.351633Z"
         },
         "addedAt": "2025-05-23T11:21:55.487946Z",
         "isNew": false,
@@ -2937,7 +5813,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:43.437271Z"
+            "feroxxcs3": "2025-11-22T08:39:08.604035Z"
         },
         "addedAt": "2025-05-23T11:21:55.487954Z",
         "isNew": false,
@@ -2968,7 +5844,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:43.696825Z"
+            "feroxxcs3": "2025-11-22T08:39:08.863424Z"
         },
         "addedAt": "2025-05-23T11:21:55.487966Z",
         "isNew": false,
@@ -2999,7 +5875,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:43.966417Z"
+            "feroxxcs3": "2025-11-22T08:39:09.116213Z"
         },
         "addedAt": "2025-05-23T11:21:55.487975Z",
         "isNew": false,
@@ -3030,7 +5906,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:44.229951Z"
+            "feroxxcs3": "2025-11-22T08:39:09.376448Z"
         },
         "addedAt": "2025-05-23T11:21:55.487983Z",
         "isNew": false,
@@ -3061,7 +5937,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:44.508351Z"
+            "feroxxcs3": "2025-11-22T08:39:09.630059Z"
         },
         "addedAt": "2025-05-23T11:21:55.487991Z",
         "isNew": false,
@@ -3092,7 +5968,7 @@
             "feroxxcs3"
         ],
         "repoTimestamps": {
-            "feroxxcs3": "2025-11-22T07:36:44.774629Z"
+            "feroxxcs3": "2025-11-22T08:39:09.885817Z"
         },
         "addedAt": "2025-05-23T11:21:55.488000Z",
         "isNew": false,
@@ -3125,7 +6001,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:45.687971Z"
+            "kekikdevam": "2025-11-22T08:39:10.759984Z"
         },
         "addedAt": "2025-05-23T11:21:55.490486Z",
         "isNew": false,
@@ -3157,7 +6033,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:45.947908Z"
+            "kekikdevam": "2025-11-22T08:39:11.012505Z"
         },
         "addedAt": "2025-05-23T11:21:55.490551Z",
         "isNew": false,
@@ -3189,7 +6065,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:46.220848Z"
+            "kekikdevam": "2025-11-22T08:39:11.261553Z"
         },
         "addedAt": "2025-05-23T11:21:55.490568Z",
         "isNew": false,
@@ -3220,7 +6096,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:46.496383Z"
+            "kekikdevam": "2025-11-22T08:39:11.516216Z"
         },
         "addedAt": "2025-05-23T11:21:55.490577Z",
         "isNew": false,
@@ -3251,7 +6127,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:46.781659Z"
+            "kekikdevam": "2025-11-22T08:39:11.756427Z"
         },
         "addedAt": "2025-05-23T11:21:55.490594Z",
         "isNew": false,
@@ -3282,7 +6158,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:47.099062Z"
+            "kekikdevam": "2025-11-22T08:39:11.991384Z"
         },
         "addedAt": "2025-05-23T11:21:55.490603Z",
         "isNew": false,
@@ -3313,7 +6189,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:47.361548Z"
+            "kekikdevam": "2025-11-22T08:39:12.237434Z"
         },
         "addedAt": "2025-05-23T11:21:55.490628Z",
         "isNew": false,
@@ -3344,7 +6220,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:47.667723Z"
+            "kekikdevam": "2025-11-22T08:39:12.496901Z"
         },
         "addedAt": "2025-05-23T11:21:55.490637Z",
         "isNew": false,
@@ -3375,7 +6251,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:48.017127Z"
+            "kekikdevam": "2025-11-22T08:39:12.750004Z"
         },
         "addedAt": "2025-05-23T11:21:55.490654Z",
         "isNew": false,
@@ -3408,7 +6284,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:48.377874Z"
+            "kekikdevam": "2025-11-22T08:39:13.009284Z"
         },
         "addedAt": "2025-05-23T11:21:55.490671Z",
         "isNew": false,
@@ -3439,7 +6315,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:48.648498Z"
+            "kekikdevam": "2025-11-22T08:39:13.270330Z"
         },
         "addedAt": "2025-05-23T11:21:55.490688Z",
         "isNew": false,
@@ -3470,7 +6346,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:49.218568Z"
+            "kekikdevam": "2025-11-22T08:39:13.535830Z"
         },
         "addedAt": "2025-05-23T11:21:55.490726Z",
         "isNew": false,
@@ -3502,7 +6378,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:49.522466Z"
+            "kekikdevam": "2025-11-22T08:39:13.796997Z"
         },
         "addedAt": "2025-05-23T11:21:55.490752Z",
         "isNew": false,
@@ -3533,7 +6409,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:50.011864Z"
+            "kekikdevam": "2025-11-22T08:39:14.048951Z"
         },
         "addedAt": "2025-05-23T11:21:55.490760Z",
         "isNew": false,
@@ -3565,7 +6441,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:50.475986Z"
+            "kekikdevam": "2025-11-22T08:39:14.334904Z"
         },
         "addedAt": "2025-05-23T11:21:55.490769Z",
         "isNew": false,
@@ -3596,7 +6472,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:50.811735Z"
+            "kekikdevam": "2025-11-22T08:39:14.612957Z"
         },
         "addedAt": "2025-05-23T11:21:55.490786Z",
         "isNew": false,
@@ -3627,7 +6503,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:51.130831Z"
+            "kekikdevam": "2025-11-22T08:39:14.865651Z"
         },
         "addedAt": "2025-08-11T19:19:59.888057Z",
         "isNew": false,
@@ -3658,7 +6534,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:51.448425Z"
+            "kekikdevam": "2025-11-22T08:39:15.126755Z"
         },
         "addedAt": "2025-08-11T19:19:59.888071Z",
         "isNew": false,
@@ -3691,7 +6567,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:51.726392Z"
+            "kekikdevam": "2025-11-22T08:39:15.378222Z"
         },
         "addedAt": "2025-05-23T11:21:55.490811Z",
         "isNew": false,
@@ -3722,7 +6598,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:52.532541Z"
+            "kekikdevam": "2025-11-22T08:39:15.643583Z"
         },
         "addedAt": "2025-11-02T01:51:11.523235Z",
         "isNew": false,
@@ -3756,7 +6632,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:52.788641Z"
+            "kekikdevam": "2025-11-22T08:39:15.899358Z"
         },
         "addedAt": "2025-05-23T11:21:55.490854Z",
         "isNew": false,
@@ -3787,7 +6663,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:53.058733Z"
+            "kekikdevam": "2025-11-22T08:39:16.166247Z"
         },
         "addedAt": "2025-05-23T11:21:55.490879Z",
         "isNew": false,
@@ -3818,7 +6694,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:53.722371Z"
+            "kekikdevam": "2025-11-22T08:39:16.448165Z"
         },
         "addedAt": "2025-08-11T19:19:59.888114Z",
         "isNew": false,
@@ -3849,7 +6725,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:54.039042Z"
+            "kekikdevam": "2025-11-22T08:39:16.701252Z"
         },
         "addedAt": "2025-05-23T11:21:55.490888Z",
         "isNew": false,
@@ -3881,7 +6757,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:54.367484Z"
+            "kekikdevam": "2025-11-22T08:39:16.950706Z"
         },
         "addedAt": "2025-05-23T11:21:55.490896Z",
         "isNew": false,
@@ -3914,7 +6790,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:54.706224Z"
+            "kekikdevam": "2025-11-22T08:39:17.210494Z"
         },
         "addedAt": "2025-05-23T11:21:55.490907Z",
         "isNew": false,
@@ -3945,7 +6821,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:55.054056Z"
+            "kekikdevam": "2025-11-22T08:39:17.513271Z"
         },
         "addedAt": "2025-08-11T19:19:59.888148Z",
         "isNew": false,
@@ -3976,7 +6852,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:55.468192Z"
+            "kekikdevam": "2025-11-22T08:39:17.773257Z"
         },
         "addedAt": "2025-05-23T11:21:55.490949Z",
         "isNew": false,
@@ -4012,7 +6888,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:55.825845Z"
+            "kekikdevam": "2025-11-22T08:39:18.027400Z"
         },
         "addedAt": "2025-05-23T11:21:55.490958Z",
         "isNew": false,
@@ -4044,7 +6920,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:56.819111Z"
+            "kekikdevam": "2025-11-22T08:39:18.295691Z"
         },
         "addedAt": "2025-05-23T11:21:55.490985Z",
         "isNew": false,
@@ -4076,7 +6952,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:57.351359Z"
+            "kekikdevam": "2025-11-22T08:39:18.556368Z"
         },
         "addedAt": "2025-05-23T11:21:55.490995Z",
         "isNew": false,
@@ -4107,7 +6983,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:57.669045Z"
+            "kekikdevam": "2025-11-22T08:39:18.820945Z"
         },
         "addedAt": "2025-05-23T11:21:55.491014Z",
         "isNew": false,
@@ -4138,7 +7014,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:57.920979Z"
+            "kekikdevam": "2025-11-22T08:39:19.102453Z"
         },
         "addedAt": "2025-05-23T11:21:55.491040Z",
         "isNew": false,
@@ -4169,7 +7045,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:59.512845Z"
+            "kekikdevam": "2025-11-22T08:39:19.368162Z"
         },
         "addedAt": "2025-05-23T11:21:55.491056Z",
         "isNew": false,
@@ -4200,7 +7076,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:36:59.900910Z"
+            "kekikdevam": "2025-11-22T08:39:19.629901Z"
         },
         "addedAt": "2025-05-23T11:21:55.491065Z",
         "isNew": false,
@@ -4231,7 +7107,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:00.333179Z"
+            "kekikdevam": "2025-11-22T08:39:19.889692Z"
         },
         "addedAt": "2025-05-23T11:21:55.491073Z",
         "isNew": false,
@@ -4262,7 +7138,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:00.886379Z"
+            "kekikdevam": "2025-11-22T08:39:20.143748Z"
         },
         "addedAt": "2025-05-23T11:21:55.491090Z",
         "isNew": false,
@@ -4293,7 +7169,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:01.158727Z"
+            "kekikdevam": "2025-11-22T08:39:20.402589Z"
         },
         "addedAt": "2025-05-23T11:21:55.491107Z",
         "isNew": false,
@@ -4324,7 +7200,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:01.410379Z"
+            "kekikdevam": "2025-11-22T08:39:20.659510Z"
         },
         "addedAt": "2025-05-23T11:21:55.491140Z",
         "isNew": false,
@@ -4355,7 +7231,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:01.676823Z"
+            "kekikdevam": "2025-11-22T08:39:20.914124Z"
         },
         "addedAt": "2025-05-23T11:21:55.491157Z",
         "isNew": false,
@@ -4387,7 +7263,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:01.937344Z"
+            "kekikdevam": "2025-11-22T08:39:21.455048Z"
         },
         "addedAt": "2025-11-02T01:51:11.523425Z",
         "isNew": false,
@@ -4419,7 +7295,7 @@
             "kekikdevam"
         ],
         "repoTimestamps": {
-            "kekikdevam": "2025-11-22T07:37:02.193473Z"
+            "kekikdevam": "2025-11-22T08:39:21.709822Z"
         },
         "addedAt": "2025-11-02T01:51:11.523436Z",
         "isNew": false,
@@ -4449,7 +7325,7 @@
             "kekikan"
         ],
         "repoTimestamps": {
-            "kekikan": "2025-11-22T07:37:02.599513Z"
+            "kekikan": "2025-11-22T08:39:22.113930Z"
         },
         "addedAt": "2025-09-02T13:31:42.467349Z",
         "isNew": false,
@@ -4481,7 +7357,7 @@
             "sarapcanagii"
         ],
         "repoTimestamps": {
-            "sarapcanagii": "2025-11-22T07:37:03.305522Z"
+            "sarapcanagii": "2025-11-22T08:39:22.663043Z"
         },
         "addedAt": "2025-05-23T11:21:55.499756Z",
         "isNew": false,
@@ -4512,7 +7388,7 @@
             "sarapcanagii"
         ],
         "repoTimestamps": {
-            "sarapcanagii": "2025-11-22T07:37:03.583662Z"
+            "sarapcanagii": "2025-11-22T08:39:22.938099Z"
         },
         "addedAt": "2025-05-23T11:21:55.499775Z",
         "isNew": false,
@@ -4545,7 +7421,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:04.049577Z"
+            "makoto2": "2025-11-22T08:39:23.585605Z"
         },
         "addedAt": "2025-05-29T14:20:53.146824Z",
         "isNew": false,
@@ -4579,7 +7455,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:04.375361Z"
+            "makoto2": "2025-11-22T08:39:23.847448Z"
         },
         "addedAt": "2025-05-29T14:20:53.146851Z",
         "isNew": false,
@@ -4610,7 +7486,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:04.630833Z"
+            "makoto2": "2025-11-22T08:39:24.154491Z"
         },
         "addedAt": "2025-05-29T14:20:53.146888Z",
         "isNew": false,
@@ -4642,7 +7518,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:04.885356Z"
+            "makoto2": "2025-11-22T08:39:24.422757Z"
         },
         "addedAt": "2025-05-29T14:20:53.146903Z",
         "isNew": false,
@@ -4673,7 +7549,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:05.462059Z"
+            "makoto2": "2025-11-22T08:39:24.682818Z"
         },
         "addedAt": "2025-05-29T14:20:53.146917Z",
         "isNew": false,
@@ -4703,7 +7579,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:05.729174Z"
+            "makoto2": "2025-11-22T08:39:24.974989Z"
         },
         "addedAt": "2025-05-29T14:20:53.146946Z",
         "isNew": false,
@@ -4733,7 +7609,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:05.983061Z"
+            "makoto2": "2025-11-22T08:39:25.229244Z"
         },
         "addedAt": "2025-05-29T14:20:53.146961Z",
         "isNew": false,
@@ -4766,7 +7642,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:06.243822Z"
+            "makoto2": "2025-11-22T08:39:25.507796Z"
         },
         "addedAt": "2025-05-29T14:20:53.146975Z",
         "isNew": false,
@@ -4797,7 +7673,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:06.497638Z"
+            "makoto2": "2025-11-22T08:39:25.760807Z"
         },
         "addedAt": "2025-05-29T14:20:53.146992Z",
         "isNew": false,
@@ -4827,7 +7703,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:06.789263Z"
+            "makoto2": "2025-11-22T08:39:26.111651Z"
         },
         "addedAt": "2025-05-29T14:20:53.147018Z",
         "isNew": false,
@@ -4859,7 +7735,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:07.084213Z"
+            "makoto2": "2025-11-22T08:39:26.386519Z"
         },
         "addedAt": "2025-06-05T12:46:10.282904Z",
         "isNew": false,
@@ -4891,7 +7767,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:07.380820Z"
+            "makoto2": "2025-11-22T08:39:26.640013Z"
         },
         "addedAt": "2025-05-29T14:20:53.147050Z",
         "isNew": false,
@@ -4921,7 +7797,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:07.645572Z"
+            "makoto2": "2025-11-22T08:39:26.916026Z"
         },
         "addedAt": "2025-05-29T14:20:53.147064Z",
         "isNew": false,
@@ -4951,7 +7827,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:07.951474Z"
+            "makoto2": "2025-11-22T08:39:27.205251Z"
         },
         "addedAt": "2025-05-29T14:20:53.147078Z",
         "isNew": false,
@@ -4981,7 +7857,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:08.269105Z"
+            "makoto2": "2025-11-22T08:39:27.463227Z"
         },
         "addedAt": "2025-05-29T14:20:53.147091Z",
         "isNew": false,
@@ -5011,7 +7887,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:08.564968Z"
+            "makoto2": "2025-11-22T08:39:27.758266Z"
         },
         "addedAt": "2025-05-29T14:20:53.147100Z",
         "isNew": false,
@@ -5041,7 +7917,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:08.864701Z"
+            "makoto2": "2025-11-22T08:39:28.032687Z"
         },
         "addedAt": "2025-05-29T14:20:53.147108Z",
         "isNew": false,
@@ -5071,7 +7947,7 @@
             "makoto2"
         ],
         "repoTimestamps": {
-            "makoto2": "2025-11-22T07:37:09.241198Z"
+            "makoto2": "2025-11-22T08:39:28.331891Z"
         },
         "addedAt": "2025-05-29T14:20:53.147117Z",
         "isNew": false,
