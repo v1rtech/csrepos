@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://raw.githubusercontent.com/v1rtech/v1rcs/refs/heads/main/.github/icons/logo/v1rcsfavicon.png",
+  "name": "V1RCS CloudStream Reposu",
+  "description": "CS Eklenti Havuzu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/v1rtech/csrepos/main/build/data.json"
+  ]
+}
