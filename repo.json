@@ -4,6 +4,6 @@
   "description": "CS Eklenti Havuzu",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/v1rtech/csrepos/main/build/data.json"
+    "https://raw.githubusercontent.com/v1rtech/csrepos/refs/heads/main/data.json"
   ]
 }
